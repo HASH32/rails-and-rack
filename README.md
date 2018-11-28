@@ -2,7 +2,9 @@
 
 `Rails::Application` is a Rack application, which has a call method.
 
-We can load only the required parts of Rails and serve it as a rack app. Read more about this at [Rails as Rack App Blog Post](https://blog.hash32.com/rails-as-rack-app/)
+We can load only the required parts of Rails and serve it as a rack app. 
+
+Read more about this at [Rails as Rack App Blog Post](https://blog.hash32.com/rails-as-rack-app/)
 
 
 ### Running this code ###
